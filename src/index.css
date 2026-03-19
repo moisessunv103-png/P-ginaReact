@@ -1,9 +1,24 @@
 :root {
-  --text: #333;
-  --text-h: #1a1a2e;
-  --bg: #fff;
-  --border: #e5e4e7;
-
+  /* Color Palette */
+  --color-primary: #FC090D;
+  --color-secondary: #111111;
+  --color-white: #FFFFFF;
+  --color-light-bg: #F5F5F5;
+  
+  /* Text Colors */
+  --text: #111111;
+  --text-light: #666666;
+  --text-inverse: #FFFFFF;
+  
+  /* Backgrounds */
+  --bg: #FFFFFF;
+  --bg-dark: #111111;
+  --bg-light: #F5F5F5;
+  
+  /* Borders */
+  --border: #E0E0E0;
+  
+  /* Typography */
   --sans: system-ui, 'Segoe UI', Roboto, sans-serif;
   --heading: system-ui, 'Segoe UI', Roboto, sans-serif;
   --mono: ui-monospace, Consolas, monospace;

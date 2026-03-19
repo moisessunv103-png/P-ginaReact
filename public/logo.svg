@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <style>
+      .logo-bg { fill: #e74c3c; }
+      .logo-text { fill: white; font-family: Arial, sans-serif; font-weight: bold; font-size: 60px; text-anchor: middle; }
+    </style>
+  </defs>
+  
+  <!-- Fondo circular -->
+  <circle cx="50" cy="50" r="50" class="logo-bg"/>
+  
+  <!-- Letra L para Litek -->
+  <text x="50" y="75" class="logo-text">L</text>
+</svg>
